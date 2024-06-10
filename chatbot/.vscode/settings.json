@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/cb807658-111a-4cb9-814f-fece034edc05/resourceGroups/TeamsChatBot/providers/Microsoft.Web/sites/TeamsChatBot-app",
+    "appService.deploySubpath": "."
+}

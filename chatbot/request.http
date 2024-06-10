@@ -1,0 +1,5 @@
+POST https://ctcopenaidemo1.openai.azure.com/openai/deployments/ctcopenaidemo1/chat/completions?api-version=2023-05-15
+Content-Type: application/json
+api-key: de0af1fbeb1145038b18b94edb947154
+
+{"messages":[{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "Does Azure OpenAI support customer managed keys?"}]}
